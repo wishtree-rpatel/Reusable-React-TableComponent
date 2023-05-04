@@ -56,9 +56,9 @@ const rows = [
   },
   {
     uuid: "3",
-    operationalMember: "William Johnsan bhai",
+    operationalMember: "William Johnsan",
     assessments: "External",
-    emailId: "WillianJohnbhai4509@gmail.com",
+    emailId: "WillianJohn4509@gmail.com",
     createdOn: new Date().toLocaleDateString("en-GB"),
     status: "active",
     createdBy: "rajkumar",
@@ -66,7 +66,7 @@ const rows = [
   },
   {
     uuid: "4",
-    operationalMember: "harry robot son",
+    operationalMember: "harry robot ",
     emailId: "harrykakaji3209@zero.com",
     status: "active",
     assessments: "External",
@@ -107,7 +107,7 @@ const rows = [
   },
   {
     uuid: "9",
-    operationalMember: "harry robot son",
+    operationalMember: "harry robot ",
     emailId: "harrykakaji3209@zero.com",
     assessments: "External",
     status: "active",
@@ -117,7 +117,7 @@ const rows = [
   },
   {
     uuid: "8",
-    operationalMember: "William Johnsan bhai",
+    operationalMember: "William Johnsan ",
     emailId: "WillianJohnbhai4509@gmail.com",
     status: "active",
     assessments: "External",
